@@ -39,7 +39,20 @@ main h1{
 
     background-color: yellow;
 }
+table{
+    margin: 0;
+}
+th{
+    text-align: left;
+    color: white;
+    height: 10px;
+}
 
 thead{
     background-color: deepskyblue;
+}
+
+
+.colored-row{
+    background-color:rgba(76, 240, 240, 0.5);
 }
