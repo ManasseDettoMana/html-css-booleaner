@@ -1,0 +1,14 @@
+header{
+    background-color: rgba(30, 143, 255, 0.8);
+    background-image: url(../img/pattern.png);
+    height:180px;
+}
+#background-logo{
+    width: 250px;
+    height: 250px;
+}
+
+#titolo-blu{
+    color:rgb(30, 143, 255);
+}
+
