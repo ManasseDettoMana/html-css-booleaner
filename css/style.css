@@ -27,6 +27,10 @@ main h1{
     margin-top: 0;    
 }
 
+ul{
+    padding-left: 16px;
+}
+
 #credits{
     color: grey;
 }
@@ -41,6 +45,7 @@ main h1{
 }
 table{
     margin: 0;
+    
 }
 th{
     text-align: left;
@@ -48,8 +53,22 @@ th{
     height: 10px;
 }
 
+.column{
+    width: 300px;
+    
+}
+
+#last-column{
+    width: 800px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
 thead{
     background-color: deepskyblue;
+    
 }
 
 
@@ -76,8 +95,8 @@ footer div{
 #graph{
     background-image: url(../img/graph.jpg);
 }
-footer span{
+.lorem-finale{
     color: white;
     font-size: 25px;
-    text-align: center;
 }
+
