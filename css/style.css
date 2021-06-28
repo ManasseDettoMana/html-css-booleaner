@@ -15,10 +15,6 @@ main h1{
     height: 250px;
 }
 
-#immgini-tim{
-    width: 30%;
-}
-
 #titolo-blu{
     color:rgb(30, 143, 255);
 }
@@ -82,7 +78,7 @@ footer > h3{
 
 footer div{
     width: 250px;
-    height: 250px;
+    height: 200px;
     background-size: cover;
     border-bottom: 50px;
 }
