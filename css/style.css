@@ -56,3 +56,28 @@ thead{
 .colored-row{
     background-color:rgba(76, 240, 240, 0.5);
 }
+ 
+footer > h3{
+    color: grey;
+}
+
+footer div{
+    width: 250px;
+    height: 250px;
+    background-size: cover;
+    border-bottom: 50px;
+}
+
+#monitor{
+    background-image: url(../img/monitor.jpg);
+    
+}
+
+#graph{
+    background-image: url(../img/graph.jpg);
+}
+footer span{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
